@@ -1,0 +1,15 @@
+C:\Users\mike2c\AppData\Local\Temporary Projects\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\bin\Debug\Inventario.xml
+C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.MDI.resources
+C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.Resources.resources
+C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.vbproj.GenerateResource.Cache
+C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.xml
+C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.FrmOperario.resources
+C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.Articulo.resources
+C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.FrmArticulo.resources
