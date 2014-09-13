@@ -22,4 +22,10 @@ Public Class MDI
         a.MdiParent = Me
         a.Show()
     End Sub
+
+    Private Sub AgregarToolStripMenuItem1_Click(sender As Object, e As EventArgs) Handles AgregarToolStripMenuItem1.Click
+        Dim prov As New FrmProveedores
+        prov.MdiParent = Me
+        prov.Show()
+    End Sub
 End Class

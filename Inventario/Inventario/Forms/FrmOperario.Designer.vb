@@ -134,9 +134,9 @@ Partial Class FrmOperario
         Me.Label5.AutoSize = True
         Me.Label5.Location = New System.Drawing.Point(9, 320)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(53, 16)
+        Me.Label5.Size = New System.Drawing.Size(62, 16)
         Me.Label5.TabIndex = 10
-        Me.Label5.Text = "Nombre"
+        Me.Label5.Text = "Direccion"
         '
         'BtnGuardar
         '

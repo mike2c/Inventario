@@ -13,3 +13,18 @@ C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\
 C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.FrmOperario.resources
 C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.Articulo.resources
 C:\Users\mike2c\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.FrmArticulo.resources
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\bin\Debug\Inventario.exe.config
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\obj\Debug\Inventario.exe
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\obj\Debug\Inventario.xml
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\bin\Debug\Inventario.exe
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\bin\Debug\Inventario.pdb
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\bin\Debug\Inventario.xml
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\obj\Debug\Inventario.Articulo.resources
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\obj\Debug\Inventario.FrmArticulo.resources
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\obj\Debug\Inventario.MDI.resources
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\obj\Debug\Inventario.FrmOperario.resources
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\obj\Debug\Inventario.Resources.resources
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\obj\Debug\Inventario.vbproj.GenerateResource.Cache
+E:\Trabajos\Proyectos\Inventario\Inventario\Inventario\obj\Debug\Inventario.FrmProveedores.resources

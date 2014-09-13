@@ -76,11 +76,24 @@
     <Compile Include="Clases\Encriptacion.vb" />
     <Compile Include="Clases\Operacion.vb" />
     <Compile Include="Clases\Operario.vb" />
+    <Compile Include="Clases\Proveedor.vb" />
     <Compile Include="Clases\Taller.vb" />
     <Compile Include="Forms\FrmArticulo.Designer.vb">
       <DependentUpon>FrmArticulo.vb</DependentUpon>
     </Compile>
     <Compile Include="Forms\FrmArticulo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmProveedores.Designer.vb">
+      <DependentUpon>FrmProveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmProveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Gaylord.Designer.vb">
+      <DependentUpon>Gaylord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Gaylord.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\MDI.Designer.vb">
@@ -127,6 +140,9 @@
     <EmbeddedResource Include="Forms\FrmArticulo.resx">
       <DependentUpon>FrmArticulo.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmProveedores.resx">
+      <DependentUpon>FrmProveedores.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\MDI.resx">
       <DependentUpon>MDI.vb</DependentUpon>
     </EmbeddedResource>
@@ -155,7 +171,9 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\Proveedores.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

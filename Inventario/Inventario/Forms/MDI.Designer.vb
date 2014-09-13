@@ -35,6 +35,9 @@ Partial Class MDI
         Me.OperariosToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.AgregarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.VerOperariosToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ProveedoresToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.AgregarToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.VerProveedoresToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.StatusStrip.SuspendLayout()
         Me.MenuStrip.SuspendLayout()
         Me.SuspendLayout()
@@ -57,7 +60,7 @@ Partial Class MDI
         'MenuStrip
         '
         Me.MenuStrip.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.MenuStrip.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.InicioToolStripMenuItem, Me.VerToolStripMenuItem, Me.OperariosToolStripMenuItem})
+        Me.MenuStrip.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.InicioToolStripMenuItem, Me.VerToolStripMenuItem, Me.OperariosToolStripMenuItem, Me.ProveedoresToolStripMenuItem})
         Me.MenuStrip.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip.Name = "MenuStrip"
         Me.MenuStrip.Size = New System.Drawing.Size(632, 24)
@@ -99,7 +102,7 @@ Partial Class MDI
         'VerArticulosToolStripMenuItem
         '
         Me.VerArticulosToolStripMenuItem.Name = "VerArticulosToolStripMenuItem"
-        Me.VerArticulosToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
+        Me.VerArticulosToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.VerArticulosToolStripMenuItem.Text = "Ver Articulos"
         '
         'OperariosToolStripMenuItem
@@ -120,6 +123,25 @@ Partial Class MDI
         Me.VerOperariosToolStripMenuItem.Name = "VerOperariosToolStripMenuItem"
         Me.VerOperariosToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.VerOperariosToolStripMenuItem.Text = "Ver operarios"
+        '
+        'ProveedoresToolStripMenuItem
+        '
+        Me.ProveedoresToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.AgregarToolStripMenuItem1, Me.VerProveedoresToolStripMenuItem})
+        Me.ProveedoresToolStripMenuItem.Name = "ProveedoresToolStripMenuItem"
+        Me.ProveedoresToolStripMenuItem.Size = New System.Drawing.Size(91, 20)
+        Me.ProveedoresToolStripMenuItem.Text = "Proveedores"
+        '
+        'AgregarToolStripMenuItem1
+        '
+        Me.AgregarToolStripMenuItem1.Name = "AgregarToolStripMenuItem1"
+        Me.AgregarToolStripMenuItem1.Size = New System.Drawing.Size(168, 22)
+        Me.AgregarToolStripMenuItem1.Text = "Agregar"
+        '
+        'VerProveedoresToolStripMenuItem
+        '
+        Me.VerProveedoresToolStripMenuItem.Name = "VerProveedoresToolStripMenuItem"
+        Me.VerProveedoresToolStripMenuItem.Size = New System.Drawing.Size(168, 22)
+        Me.VerProveedoresToolStripMenuItem.Text = "Ver proveedores"
         '
         'MDI
         '
@@ -154,5 +176,8 @@ Partial Class MDI
     Friend WithEvents OperariosToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents AgregarToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents VerOperariosToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents ProveedoresToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents AgregarToolStripMenuItem1 As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents VerProveedoresToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 
 End Class
