@@ -115,6 +115,12 @@
       <DependentUpon>Log in.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Forms\prueba.Designer.vb">
+      <DependentUpon>prueba.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\prueba.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Modulos\ModuloConexion.vb" />
     <Compile Include="Modulos\ModuloSesion.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
