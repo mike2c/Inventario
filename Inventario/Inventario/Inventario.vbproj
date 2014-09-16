@@ -84,6 +84,12 @@
     <Compile Include="Forms\FrmArticulo.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Forms\FrmOrdenSalida.Designer.vb">
+      <DependentUpon>FrmOrdenSalida.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmOrdenSalida.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Forms\FrmProveedores.Designer.vb">
       <DependentUpon>FrmProveedores.vb</DependentUpon>
     </Compile>
@@ -145,6 +151,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\FrmArticulo.resx">
       <DependentUpon>FrmArticulo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmOrdenSalida.resx">
+      <DependentUpon>FrmOrdenSalida.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\FrmProveedores.resx">
       <DependentUpon>FrmProveedores.vb</DependentUpon>
